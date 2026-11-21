@@ -17,7 +17,6 @@ GromacsWrapper is a Python package that wraps system calls to GROMACS
 tools into thin classes. This allows for fairly seamless integration
 of the GROMACS tools into Python scripts.
 
-
 Current build status
 ====================
 
@@ -198,7 +197,4 @@ Feedstock Maintainers
 
 * [@njzjz](https://github.com/njzjz/)
 * [@orbeckst](https://github.com/orbeckst/)
-
-
-<!-- dummy commit to enable rerendering -->
 
